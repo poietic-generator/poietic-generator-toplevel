@@ -1,0 +1,58 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:9.6
+    environment:
+      POSTGRES_USER: poieticuser
+      POSTGRES_PASSWORD: poieticpass
+      POSTGRES_DB: poieticdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    restart: "no"
+
+  api:
+    build:
+      context: api
+      dockerfile: docker/Dockerfile
+    environment:
+      DATABASE_URL: postgresql://poieticuser:poieticpass@db/poieticdb
+    volumes:
+      - .:/app
+    # command: ...
+    restart: "no"
+    ports:
+      - "8000:8000"
+    links:
+      - db
+
+  adminer:
+    image: adminer
+    restart: "no"
+    ports:
+      - "8001:8001"
+    links:
+      - db
+
+#   ui:
+#     build:
+#       context: ui
+#       dockerfile: ui/docker/Dockerfile
+#
+#   proxy:
+#     build:
+#       context: ./
+#       dockerfile: docker/proxy/Dockerfile
+#     ports:
+#       - "80:80"
+#     restart: on-failure
+# 
+#     tty: true
+#     depends_on:
+#       - api
+#       - ui
+
+volumes:
+  pg_data:
