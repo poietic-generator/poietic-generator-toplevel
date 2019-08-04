@@ -34,7 +34,7 @@ This repository ([@poietic-generator/poietic-generator](https://github.com/poiet
 
 1. (20%) __Develop a minimal front-end in VueJS + Typescript__ : The "component-by-component" development logic will make it easier to upgrade and replace interface elements. In addition, it will be easier to decline to a mobile version.
 
-   - based on the current Ruby API
+   - using the current Ruby API
    - allow navigation in sessions
    - allow the reading of an old session
    - allow participation in the game
