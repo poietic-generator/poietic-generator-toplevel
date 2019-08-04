@@ -32,13 +32,14 @@ This repository ([@poietic-generator/poietic-generator](https://github.com/poiet
 
 ## Roadmap
 
-1. __Develop a minimal front-end VueJS__
+1. __Develop a minimal front-end in VueJS + Typescript__ : The "component-by-component" development logic will make it easier to upgrade and replace interface elements. In addition, it will be easier to decline to a mobile version.
+
    - based on the current Ruby API
    - allow navigation in sessions
    - allow the reading of an old session
    - allow participation in the game
 
-2. Add minimal support for websocket in current Ruby API
+2. __Rewrite the API in Crystal__ : Crystal is a programming language that is partly compatible with ruby and uses its syntax. It also provides an advanced typing system that facilitates bug detection, compilation and much better performance.
 
-3. Rewrite the API in Crystal
+3. __Add support for websocket in the Crystal API + VueJS front-end.__
 
