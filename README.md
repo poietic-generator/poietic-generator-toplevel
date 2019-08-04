@@ -1,4 +1,4 @@
-# Poietic Generator (umbrella project ☂️)
+# Poietic Generator (umbrella project :umbrella:)
 
 <!-- inspired by https://github.com/marp-team/marp -->
 
