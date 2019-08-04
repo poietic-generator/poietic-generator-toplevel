@@ -10,7 +10,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poiet
 
 | Name | Description | 
 |---   |---          |
-| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Current production version.__<br/> First web version. Naive implementation of the poietic-generator probe based on web constraintes. No new features will be added there. |
+| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Production version.__<br/> First web version. Naive implementation of the poietic-generator probe based on web constraintes. No new features will be added there. |
 | [poietic-generator-api-ocaml](https://github.com/poietic-generator/poietic-generator-api-ocaml) | Experiment - Playground for web services in OCaml |
 | [poietic-generator-api-crystal](https://github.com/poietic-generator/poietic-generator-api-crystal) | __Development version.__<br/> API re-implementation adding support for real-time (websockets) and mesh network (peer-to-peer nodes). |
 
@@ -18,7 +18,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poiet
 
 | Name | Description |
 |---   |---          |
-| [poietic-generator-ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | First web version. Current production version |
+| [poietic-generator-ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | First web version. Production version |
 | [poietic-generator-ui-phaser](https://github.com/poietic-generator/poietic-generator-ui-phaser) | Draft |
 | [poietic-generator-ui-vue](https://github.com/poietic-generator/poietic-generator-ui-vue) | Draft  |
 
