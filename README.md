@@ -26,8 +26,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poiet
 
 | Name | Description |
 |---   |---          |
-| [cli-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Production version.__<br/> Command-line utility to manage sessions |
-| [snapshot-collector](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Production version__<br/> Command-line utility to extract snapshots images and videos |
+| [cli-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Production version.__<br/> Command-line utility to manage sessions groups, and to extract snapshots images and videos |
 
 ## Roadmap
 
