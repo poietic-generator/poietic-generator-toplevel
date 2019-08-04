@@ -10,15 +10,15 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to Poietic G
 
 | Name | Description | 
 |---   |---          |
-| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | Production version |
-| [poietic-generator-api-ocaml](https://github.com/poietic-generator/poietic-generator-api-ocaml) | Draft (Experiment) |
-| [poietic-generator-api-crystal](https://github.com/poietic-generator/poietic-generator-api-crystal) | Draft |
+| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | First web version. Current production version |
+| [poietic-generator-api-ocaml](https://github.com/poietic-generator/poietic-generator-api-ocaml) | Experiment - Playground for web services in OCaml |
+| [poietic-generator-api-crystal](https://github.com/poietic-generator/poietic-generator-api-crystal) | Early development version. |
 
 ### User interfaces
 
 | Name | Description |
 |---   |---          |
-| [poietic-generator-ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | Production version |
+| [poietic-generator-ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | First web version. Current production version |
 | [poietic-generator-ui-phaser](https://github.com/poietic-generator/poietic-generator-ui-phaser) | Draft |
 | [poietic-generator-ui-vue](https://github.com/poietic-generator/poietic-generator-ui-vue) | Draft  |
 
