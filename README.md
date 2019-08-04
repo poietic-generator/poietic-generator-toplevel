@@ -19,8 +19,8 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poiet
 | Name | Description |
 |---   |---          |
 | [ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | First web version. Production version |
-| [ui-phaser](https://github.com/poietic-generator/poietic-generator-ui-phaser) | Draft |
-| [ui-vue](https://github.com/poietic-generator/poietic-generator-ui-vue) | Draft  |
+| [ui-phaser](https://github.com/poietic-generator/poietic-generator-ui-phaser) | Experiment - Playground for mobile version |
+| [ui-vue](https://github.com/poietic-generator/poietic-generator-ui-vue) | __Development version.__<br/>  |
 
 ## Utilities
 
