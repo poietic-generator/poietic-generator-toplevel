@@ -2,7 +2,7 @@
 
 <!-- inspired by https://github.com/marp-team/marp -->
 
-This repo ([@poietic-generator/poietic-generator]()) is an entrance to Poietic Generator project and components family, website and project-wide utilities.
+This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poietic Generator probe project and components family, website and project-wide utilities.
 
 ## Components
 
@@ -10,7 +10,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to Poietic G
 
 | Name | Description | 
 |---   |---          |
-| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Current production version.__<br/> First web version.<br/>No features will be added there. |
+| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | __Current production version.__<br/> First web version. Naive implementation of the poietic-generator probe based on web constraintes. First web version.<br/>No features will be added there. |
 | [poietic-generator-api-ocaml](https://github.com/poietic-generator/poietic-generator-api-ocaml) | Experiment - Playground for web services in OCaml |
 | [poietic-generator-api-crystal](https://github.com/poietic-generator/poietic-generator-api-crystal) | __Development version.__<br/> API re-implementation adding support for real-time (websockets) and mesh network (peer-to-peer nodes). |
 
