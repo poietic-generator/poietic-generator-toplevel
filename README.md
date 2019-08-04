@@ -10,7 +10,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to Poietic G
 
 | Name | Description | 
 |---   |---          |
-| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | First web version. Current production version |
+| [poietic-generator-api-ruby](https://github.com/poietic-generator/poietic-generator-api-ruby) | First web version. Current production version. No features will be added there. |
 | [poietic-generator-api-ocaml](https://github.com/poietic-generator/poietic-generator-api-ocaml) | Experiment - Playground for web services in OCaml |
 | [poietic-generator-api-crystal](https://github.com/poietic-generator/poietic-generator-api-crystal) | Early development version. |
 
