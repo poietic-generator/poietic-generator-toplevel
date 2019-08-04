@@ -1,4 +1,4 @@
-version: '3'
+version: '3.4'
 
 services:
   db:
@@ -20,7 +20,7 @@ services:
     environment:
       DATABASE_URL: postgresql://poieticuser:poieticpass@db/poieticdb
     volumes:
-      - .:/app
+      - ./api:/app
     # command: ...
     restart: "no"
     ports:
