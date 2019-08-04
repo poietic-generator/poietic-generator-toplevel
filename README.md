@@ -2,7 +2,9 @@
 
 <!-- inspired by https://github.com/marp-team/marp -->
 
-This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poietic Generator probe project and components family, website and project-wide utilities.
+The Poietic Generator probe is a multiplayer and collaborative anoptic experiment 
+
+This repository ([@poietic-generator/poietic-generator](https://github.com/poietic-generator/poietic-generator)) is an entrance to the Poietic Generator probe project and components family, website and project-wide utilities.
 
 ## Components
 
@@ -18,7 +20,7 @@ This repo ([@poietic-generator/poietic-generator]()) is an entrance to the Poiet
 
 | Name | Description |
 |---   |---          |
-| [ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | __Production version.__<br/> First web version. Early 2010 implementation based on jQuery + jQuery mobile. No new features will be added there. |
+| [ui-jquery](https://github.com/poietic-generator/poietic-generator-ui-jquery) | __Production version.__<br/> First web version : early 2010 implementation based on jQuery + jQuery mobile. No new features will be added there. |
 | [ui-phaser](https://github.com/poietic-generator/poietic-generator-ui-phaser) | __Experiment__.<br/> Playground for smartphone version |
 | [ui-vue](https://github.com/poietic-generator/poietic-generator-ui-vue) | __Development version.__<br/>  |
 
