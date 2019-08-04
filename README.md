@@ -32,4 +32,13 @@ This repository ([@poietic-generator/poietic-generator](https://github.com/poiet
 
 ## Roadmap
 
+1. __Develop a minimal front-end VueJS__
+   - based on the current Ruby API
+   - allow navigation in sessions
+   - allow the reading of an old session
+   - allow participation in the game
+
+2. Add minimal support for websocket in current Ruby API
+
+3. Rewrite the API in Crystal
 
