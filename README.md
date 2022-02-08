@@ -39,7 +39,7 @@ This repository ([@poietic-generator/poietic-generator](https://github.com/poiet
    - allow the reading of an old session
    - allow participation in the game
 
-2. (0%) __Rewrite the API in Crystal__ : Crystal is a programming language that is partly compatible with ruby and uses its syntax. It also provides an advanced typing system that facilitates bug detection, compilation and much better performance.
+2. (20%) __Rewrite the API in Crystal__ : Crystal is a programming language that is partly compatible with ruby and uses its syntax. It also provides an advanced typing system that facilitates bug detection, compilation and much better performance.
 
 3. (0%) __Add support for websocket in the Crystal API + VueJS front-end.__
 
