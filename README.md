@@ -49,7 +49,12 @@ You need Docker and Make installed on your system
   * allow navigation in sessions
   * allow the reading of an old session
   * allow participation in the game
-* :arrow_right: __Rewrite the API in Crystal__ : Crystal is a programming language that is partly compatible with ruby and uses its syntax. It also provides an advanced typing system that facilitates bug detection, compilation and much better performance.
+* :arrow_right: __Rewrite the API in Crystal__ : Crystal is a programming language that is partialy compatible with ruby and uses its syntax. It also provides an advanced typing system that facilitates bug detection, compilation and much better performance.
 * :x: __Add support for websocket in the Crystal API + VueJS front-end.__
-* :x: __Add multi-node support__
+* :x: __Add unicast p2p (WAN nodes <=> WAN nodes) support__
+* :x: __Add unicast c/s (WAN nodes <=> WAN renderers) support__
+* :x: __Add unicast c/s (WAN nodes <=> WAN controlers) support__
+* :x: __Add multicast p2p (LAN nodes <=> LAN nodes) support__
+* :x: __Add multicast c/s (LAN nodes <=> LAN renderers) support__
+* :x: __Add multicast c/s (LAN nodes <=> LAN controlers) support__
 
